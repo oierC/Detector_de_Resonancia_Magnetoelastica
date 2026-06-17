@@ -1,1 +1,2 @@
-Los ficheros aquí presentes se tratan del firmware empleado por un dispositivo Detector de Resonancia Magnetoelástica y una interfaz gráfica (GUI) para controlar y monitorizar dicho dispositivo. Ambos forman parte del Trabajo de Fin de Grado del grado en ingeniería electrónica realizado por el del autor.
+Los ficheros aquí presentes se tratan del firmware empleado por un dispositivo Detector de Resonancia Magnetoelástica y una interfaz gráfica (GUI) para controlar y monitorizar dicho dispositivo. Ambos forman parte del Trabajo de Fin de Grado del grado en ingeniería electrónica realizado por el del autor titulado "Desarrollo de una plataforma compacta de detección de resonancia
+magnetoelástica".

@@ -31,9 +31,8 @@ El contenido se organiza en las siguientes carpetas:
   
 * **KiCad:** esquema eléctrico y diseño de la placa de circuito impreso (PCB) del prototipo preindustrializado desarrollado para el proyecto. Incluye el generador de señal, circuito de adecuación y amplificación, el detector de ganancia y fase, el sistema de control y procesamiento, un conector USB tipo-C para la comunicación y conectores coaxiales para el sistema magnético.
   
-<p align="center">
-  <img src="images/PCB_3D.png" width="40%">
-  <img src="images/PCB_capas.png" width="40%">
-</p>
+| PCB 3D | PCB por capas |
+|:------:|:-------------:|
+| <img src="images/PCB_3D.png" width="350"> | <img src="images/PCB_capas.png" width="350"> |
 
 Este repositorio tiene como objetivo facilitar la consulta, reproducción y reutilización del trabajo realizado, reuniendo en un único lugar tanto el hardware como el software desarrollados para el proyecto.

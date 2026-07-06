@@ -33,7 +33,7 @@ El contenido se organiza en las siguientes carpetas:
   
 <p align="center">
   <img src="images/PCB_3D.png" width="30%">
-  <img src="images/PCB_capas.png" width="30%">
+  <img src="images/PCB_capas.png" width="300" height="300">
 </p>
 
 Este repositorio tiene como objetivo facilitar la consulta, reproducción y reutilización del trabajo realizado, reuniendo en un único lugar tanto el hardware como el software desarrollados para el proyecto.

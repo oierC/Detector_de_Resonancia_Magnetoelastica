@@ -6,7 +6,7 @@ Este repositorio recopila los principales archivos desarrollados durante mi Trab
   <img src="images/Diagrama_general.png" width="500">
 </p>
 
-El contenido se organiza en las siguientes carpetas:
+El contenido se organiza en los siguientes tipos de archivos:
 
 * **Arduino:** firmware principal del detector, desarrollado para ESP32. Se encarga del control de todos los elementos hardware del sistema, incluyendo el generador de señal, los convertidores DAC, el potenciómetro digital y la adquisición de datos mediante el ADC. Implementa distintos modos de funcionamiento (control manual, acceso a parámetros de calibración y barridos automáticos), gestionando la generación de campos magnéticos continuos y alternos, la ejecución de barridos en frecuencia y campo magnético, la adquisición de las señales de ganancia y fase, así como la comunicación con el software de control mediante el puerto serie. Además, incorpora comprobaciones de rango y resolución, junto con indicadores luminosos y acústicos para informar del estado del sistema y de posibles errores.
 

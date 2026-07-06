@@ -3,7 +3,7 @@
 Este repositorio recopila los principales archivos desarrollados durante mi Trabajo Fin de Grado del Grado en Ingeniería Electrónica sobre el diseño y construcción de un dispositivo Detector de Resonancia Magnetoelástica.
 
 <p align="center">
-  <img src="images/Diagrama_general.png" width="700">
+  <img src="images/Diagrama_general.png" width="500">
 </p>
 
 El contenido se organiza en las siguientes carpetas:
@@ -33,7 +33,7 @@ El contenido se organiza en las siguientes carpetas:
   
 <p align="center">
   <img src="images/PCB_3D.png" width="40%">
-  <img src="images/PCB_capas.png" width="05%">
+  <img src="images/PCB_capas.png" width="40%">
 </p>
 
 Este repositorio tiene como objetivo facilitar la consulta, reproducción y reutilización del trabajo realizado, reuniendo en un único lugar tanto el hardware como el software desarrollados para el proyecto.
